@@ -1,4 +1,4 @@
-<h1> Install verif push_swap </h1>
+<h1> Install verif_push_swap </h1>
  --> Go in your push swap directory </br>
 make </br>
 git clone git@github.com:MathisDev/verif_push_swap.git </br>
