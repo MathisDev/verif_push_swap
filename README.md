@@ -1,9 +1,9 @@
 <h1> Install verif push_swap </h1>
-Go in your push swap directory </br>
+ --> Go in your push swap directory </br>
 make </br>
 git clone git@github.com:MathisDev/verif_push_swap.git </br>
-mv verif_push_swap/* .
-rm -fr verif_push_swap
+mv verif_push_swap/* . </br>
+rm -fr verif_push_swap </br>
 cat add_makefile >> Makefile </br>
 <b>You can run the command : </b> </br>
 test2 for test with 2 element </br>
