@@ -3,7 +3,7 @@ Go in your push swap directory </br>
 make </br>
 git clone git@github.com:MathisDev/verif_push_swap.git </br>
 cat add_makefile >> makefile </br>
-<b>You can run the command : </b>
+<b>You can run the command : </b> </br>
 test2 for test with 2 element </br>
 test3 for test with 3 element </br>
 test5 for test with 5 element </br>
